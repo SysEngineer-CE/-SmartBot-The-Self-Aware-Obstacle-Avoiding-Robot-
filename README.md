@@ -4,7 +4,8 @@ By: Norah 👩‍💻
 
 > 🥷 "Sees, thinks, dodges." SmartBot never crashes — it senses danger before it even gets close and reroutes on the spot, like a tiny robotic ninja on wheels! 🛞💨
 
-🔗 Try it live on Tinkercad: https://www.tinkercad.com/things/jmxZgXeolib-smart-bot-obstacle-avoiding-robot?sharecode=PoBOG4r4knucvDEx5zyWbw16Y8tLu4xfTgHGlA2Jg3w
+🔗 Try it live on Tinkercad: (https://www.tinkercad.com/things/jmxZgXeolib-smart-bot-obstacle-avoiding-robot?sharecode=PoBOG4r4knucVDEx5zyWbw16Y8tLu4xfTgHGIA2Jg3w)
+
 
 ---
 
